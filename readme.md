@@ -2,7 +2,7 @@ Requirements
 
 1. Objective: my Capstone project aims to provide recommendations for which cryptocurrencies to invest in. 
 An investor can either find another cryptocurrency similar to what they already have in their portfolio, 
-or they can find a cryptocurrency distinct from what they have already invested in, as a diversifying investment stragegy.
+or they can find a cryptocurrency distinct from what they have already invested in, as a diversifying investment strategy.
 
 2. Data Ingestion: data about crypocurrencies are obtained from the free tier CoinGecko API. 
 The data were then preprocessed before passing onto the machine learning algorithm in step 4.
